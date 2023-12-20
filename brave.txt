@@ -1,0 +1,15 @@
+pixiv.net##span.c-text-text3
+pixiv.net##div.works-bookmark-button
+sketch.pixiv.net##.ItemFootCount
+pixiv.net##div.work-details-comments-container
+pixiv.net##pixiv-icon.c-text-text3
+pixiv.net##div.user-follow-counts
+pixiv.net##a.gtm-dashboard-home-latest-works-number-link-view
+pixiv.net##pixiv-icon[name="16/View"]
+pixiv.net##div.sc-471e23d5-7.bYbZYC
+pixiv.net##a[href="/users/39289244/followers"]
+pixiv.net##a[href="/users/39289244/following"]
+pixiv.net##div.sc-18qovzs-12.jOTgdS
+pixiv.net##div.sc-1b6d63c5-15.bcVxmE:first-child
+pixiv.net##div.sc-caa266a8-7.jqOBHw
+m.youtube.com###ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels.fresh-feeds-separators:nth-child(3)
